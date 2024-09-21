@@ -1,7 +1,8 @@
 [](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Neha Ahirwar</h1>
 <h3 align="center">A passionate Android Developer and Competitive Programmer</h3>
-<img src=""D:\Placement Preparation\image_processing20210301-3601-w1fbuc.gif"" alt="Coding" width="400" align="right">
+![Coding GIF](D:\Placement Preparation/abc.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-ahirwar&label=Profile%20views&color=0e75b6&style=flat" alt="neha-ahirwar" /> </p>
 
