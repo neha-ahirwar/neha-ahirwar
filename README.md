@@ -1,7 +1,9 @@
 [](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Neha Ahirwar</h1>
 <h3 align="center">A passionate Android Developer and Competitive Programmer</h3>
-![Coding GIF](D:\Placement Preparation/abc.gif)
+
+![GIF Description](https://github.com/neha-ahirwar/neha-ahirwar/commit/f8303b436c7b48f5500d3046cb089ac56ba7edeb/abc.gif)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-ahirwar&label=Profile%20views&color=0e75b6&style=flat" alt="neha-ahirwar" /> </p>
